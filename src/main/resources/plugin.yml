@@ -1,0 +1,4 @@
+name: MHStamina_Sample
+version: @version@
+main: com.github.fratikak.mhstamina_sample.MHStamina_Sample
+api-version: 1.16
